@@ -1,0 +1,27 @@
+
+.form {
+    padding: 20px;
+    position: relative;
+}
+
+.form-input {
+    display: flex;
+}
+
+.form-input-to {
+    width: 100px;
+    margin-right: 10px;
+}
+
+.form-input-avatar{
+    margin: 10px;
+}
+
+.form-textfield{
+    width: 100%;
+}
+
+.form-button{
+    position: absolute;
+    right: 30px;
+}

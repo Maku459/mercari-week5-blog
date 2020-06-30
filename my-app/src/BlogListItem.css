@@ -1,0 +1,27 @@
+.MuiCard-root {
+    overflow: hidden;
+    margin-bottom: 20px;
+}
+
+.hidden-item {
+    visibility: hidden;
+    position: fixed;
+    padding: 10px;
+}
+  
+p:hover .hidden-item {
+    visibility: visible;
+    display: block;
+    background-color: #F48FB1;
+    padding-right: 5px;
+    padding-left: 5px;
+}
+
+ul {
+    list-style: none;
+  }
+
+li {
+    font-size: 15px;
+    line-height: 1.2;
+}
